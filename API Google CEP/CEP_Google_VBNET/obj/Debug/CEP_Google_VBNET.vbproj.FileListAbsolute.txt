@@ -1,0 +1,32 @@
+C:\_vbn\CEP_Google_VBNET\CEP_Google_VBNET\bin\Debug\CEP_Google_VBNET.exe.config
+C:\_vbn\CEP_Google_VBNET\CEP_Google_VBNET\obj\Debug\CEP_Google_VBNET.Form1.resources
+C:\_vbn\CEP_Google_VBNET\CEP_Google_VBNET\obj\Debug\CEP_Google_VBNET.Resources.resources
+C:\_vbn\CEP_Google_VBNET\CEP_Google_VBNET\obj\Debug\CEP_Google_VBNET.vbproj.GenerateResource.Cache
+C:\_vbn\CEP_Google_VBNET\CEP_Google_VBNET\bin\Debug\CEP_Google_VBNET.exe
+C:\_vbn\CEP_Google_VBNET\CEP_Google_VBNET\bin\Debug\CEP_Google_VBNET.pdb
+C:\_vbn\CEP_Google_VBNET\CEP_Google_VBNET\bin\Debug\CEP_Google_VBNET.xml
+C:\_vbn\CEP_Google_VBNET\CEP_Google_VBNET\obj\Debug\CEP_Google_VBNET.exe
+C:\_vbn\CEP_Google_VBNET\CEP_Google_VBNET\obj\Debug\CEP_Google_VBNET.xml
+C:\_vbn\CEP_Google_VBNET\CEP_Google_VBNET\obj\Debug\CEP_Google_VBNET.pdb
+C:\Users\Everton Souza\Desktop\CEP_Google_VBNET\CEP_Google_VBNET\bin\Debug\CEP_Google_VBNET.exe.config
+C:\Users\Everton Souza\Desktop\CEP_Google_VBNET\CEP_Google_VBNET\obj\Debug\CEP_Google_VBNET.exe
+C:\Users\Everton Souza\Desktop\CEP_Google_VBNET\CEP_Google_VBNET\obj\Debug\CEP_Google_VBNET.xml
+C:\Users\Everton Souza\Desktop\CEP_Google_VBNET\CEP_Google_VBNET\obj\Debug\CEP_Google_VBNET.pdb
+C:\Users\Everton Souza\Desktop\CEP_Google_VBNET\CEP_Google_VBNET\bin\Debug\CEP_Google_VBNET.exe
+C:\Users\Everton Souza\Desktop\CEP_Google_VBNET\CEP_Google_VBNET\bin\Debug\CEP_Google_VBNET.pdb
+C:\Users\Everton Souza\Desktop\CEP_Google_VBNET\CEP_Google_VBNET\bin\Debug\CEP_Google_VBNET.xml
+C:\Users\Everton Souza\Desktop\CEP_Google_VBNET\CEP_Google_VBNET\obj\Debug\CEP_Google_VBNET.Form1.resources
+C:\Users\Everton Souza\Desktop\CEP_Google_VBNET\CEP_Google_VBNET\obj\Debug\CEP_Google_VBNET.Resources.resources
+C:\Users\Everton Souza\Desktop\CEP_Google_VBNET\CEP_Google_VBNET\obj\Debug\CEP_Google_VBNET.vbproj.GenerateResource.Cache
+C:\Users\Everton Souza\Desktop\API Google CEP\CEP_Google_VBNET\bin\Debug\CEP_Google_VBNET.exe.config
+C:\Users\Everton Souza\Desktop\API Google CEP\CEP_Google_VBNET\obj\Debug\CEP_Google_VBNET.exe
+C:\Users\Everton Souza\Desktop\API Google CEP\CEP_Google_VBNET\obj\Debug\CEP_Google_VBNET.xml
+C:\Users\Everton Souza\Desktop\API Google CEP\CEP_Google_VBNET\obj\Debug\CEP_Google_VBNET.pdb
+C:\Users\Everton Souza\Desktop\API Google CEP\CEP_Google_VBNET\bin\Debug\CEP_Google_VBNET.exe
+C:\Users\Everton Souza\Desktop\API Google CEP\CEP_Google_VBNET\bin\Debug\CEP_Google_VBNET.pdb
+C:\Users\Everton Souza\Desktop\API Google CEP\CEP_Google_VBNET\bin\Debug\CEP_Google_VBNET.xml
+C:\Users\Everton Souza\Desktop\API Google CEP\CEP_Google_VBNET\obj\Debug\CEP_Google_VBNET.frmAPIGoogle.resources
+C:\Users\Everton Souza\Desktop\API Google CEP\CEP_Google_VBNET\obj\Debug\CEP_Google_VBNET.Resources.resources
+C:\Users\Everton Souza\Desktop\API Google CEP\CEP_Google_VBNET\obj\Debug\CEP_Google_VBNET.vbproj.GenerateResource.Cache
+C:\Users\Everton Souza\Desktop\API Google CEP\CEP_Google_VBNET\obj\Debug\CEP_Google_VBNET.frmGoogleMaps.resources
+C:\Users\Everton Souza\Desktop\API Google CEP\CEP_Google_VBNET\obj\Debug\CEP_Google_VBNET.frmCalcularDistancia.resources
